@@ -25,3 +25,9 @@ Made it in short time, it'll have ip and port hard-coded in it and will fuzz all
 ```bash
 ./fuzzSpkFiles.sh
 ```
+
+---
+
+## Also
+
+I passed lol
